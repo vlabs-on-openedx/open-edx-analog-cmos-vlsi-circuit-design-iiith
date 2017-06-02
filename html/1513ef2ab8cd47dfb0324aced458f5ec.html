@@ -1,0 +1,26 @@
+<p><button onclick="popup()">Full Screen</button></p>
+<p><iframe src="http://cse30-iiith.virtual-labs.ac.in/vlab3/myExp5_b/exp1.html" height="602" width="802"> </iframe></p>
+<script>// <![CDATA[
+function popup(){
+  window.open('http://cse30-iiith.virtual-labs.ac.in/vlab3/myExp5_b/exp1.html', '_blank', 'toolbar=0,location=0,menubar=0');
+ }
+// ]]></script>
+<script>// <![CDATA[
+// ****** ALSO MODIFY THE URLS GIVEN ABOVE **************
+// ********MODIFY THIS SECTION **************************
+
+var lab_id = "CSE30"; 
+var exp_name = "Design and characterization of differential amplifier : Frequency Response (Vin v/s Frequency)"
+var lab_name = "Analog CMOS VLSI Circuit Design"
+var user_id = "%%USER_ID%%"; //get the User ID as a string  
+var exp_id = "E99163"
+
+var server_url = "http://analytics-api.vlabs.ac.in/"
+
+var xhttp = new XMLHttpRequest();
+var urlstr = server_url + user_id + "," + lab_id + "," + lab_name + "," + exp_id + "," + exp_name
+xhttp.open("GET", urlstr, true);
+xhttp.send();
+
+// *******DO NOT MODIFY THIS SECTION AGAIN ************
+// ]]></script>
