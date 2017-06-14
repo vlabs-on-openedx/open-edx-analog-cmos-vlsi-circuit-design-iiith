@@ -1,4 +1,4 @@
-<course cert_html_view_enabled="true" display_name="Analog CMOS VLSI Circuit Design" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2017-05-10T00:00:00+00:00&quot;">
+<course cert_html_view_enabled="true" course_image="analogCMOSVLSI.jpg" display_name="Analog CMOS VLSI Circuit Design" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2017-05-10T00:00:00+00:00&quot;">
   <chapter url_name="de363a10994c4923937720c89ead7a15"/>
   <chapter url_name="6dadb140db564ef2b0fd43bbc3735147"/>
   <chapter url_name="24933161cfbd495786578bffdb531dd0"/>
