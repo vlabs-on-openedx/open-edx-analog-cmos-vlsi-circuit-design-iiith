@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CSE30-IIITH", 
+            "course": "cse30", 
             "name": "analogCMOSVLSI.jpg", 
-            "org": "IIIT-H", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "analogCMOSVLSI.jpg", 
-        "filename": "asset-v1:IIIT-H+CSE30-IIITH+Anytime+type@asset+block@analogCMOSVLSI.jpg", 
+        "filename": "asset-v1:Virtual-Labs+cse30+Anytime+type@asset+block@analogCMOSVLSI.jpg", 
         "import_path": "analogCMOSVLSI.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-H", 
-            "CSE30-IIITH", 
+            "Virtual-Labs", 
+            "cse30", 
             "thumbnail", 
             "analogCMOSVLSI.jpg", 
             null
